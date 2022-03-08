@@ -1,0 +1,9 @@
+[submodule "firebase-template-maker"]
+	path = firebase-template-maker
+	url = https://github.com/taeilyoon/firebase-template-maker.git
+[submodule "flutter_init"]
+	path = flutter_init
+	url = https://github.com/taeilyoon/flutter_init.git
+[submodule "flutter_chats_boiler"]
+	path = flutter_chats_boiler
+	url = https://github.com/taeilyoon/flutter_chats_boiler.git
